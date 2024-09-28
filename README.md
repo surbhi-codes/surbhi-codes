@@ -6,8 +6,8 @@
 
 - 🌍 I'm based in India.
 - ✉️ You can contact me at [jhasurbhi21@gmail.com]
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning Web Deveploment
 - 🤝 I’m open to collaborating on other frontend projects and ideas.
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
