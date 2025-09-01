@@ -2,8 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=surbhi-codes&color=blue)
 - 🌍 I'm based in India.
-- ✉️ You can contact me at jhasurbhi21@gmail.com
-- 🌱 I’m currently learning Frontend Development.
+- ✉️ You can contact me at surbhijhacs@gmail.com
+- 🌱 I’m currently learning Full Stack Development.
 - 🤝 I’m open to collaborating on other frontend projects and ideas.
 
 ## 💻Tech Stack
